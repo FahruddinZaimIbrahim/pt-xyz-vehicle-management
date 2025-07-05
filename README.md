@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Documentation
+1. Tabel menampilkan kolom id produk (otomatis), merek produk, jenis produk, jumlah stok, harga, keterangan, aksi (edit, delete).
+
+![Tampilan Tabel](./img/img1.png)
+
+2. Pada halaman tersebut terdapat fitur create, search.
+
+![Tampilan Create dan Search](./img/img2.png)
+
+3. Fitur search berdasarkan merek produk.
+
+![Tampilan Search](./img/img3.png)
+
+4. Fitur create, menampilkan halaman create dengan menginputkan merek produk, jenis produk, jumlah stok, harga, dan keterangan.
+
+![Tampilan Create](./img/img4.png)
+
+5. Fitur edit, menampilkan halaman edit yang dapat mengubah detail dari produk seperti merek produk, jenis produk, jumlah stok, harga, atau keterangan.
+
+![Tampilan Edit](./img/img5.png)
